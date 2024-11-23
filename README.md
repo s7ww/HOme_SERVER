@@ -43,7 +43,7 @@ A personal home server built from a fresh Fedora 41 ISO installation. This repos
 
 2. Complete the installation and reboot into your new Fedora system and Login using the Credentials you have set during installation.
    <p align="center">
-  <img src="server_login.jpg">
+  <img src="HOMe Server/server_login.jpg">
 </p>
 
    
