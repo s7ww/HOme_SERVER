@@ -1,4 +1,4 @@
-# Fedora 41 Home Server
+# Fedora 41 Home Server .
 
 A personal home server built from a fresh Fedora 41 ISO installation. This repository documents the setup process, configurations, and additional services added to enhance functionality.
 
